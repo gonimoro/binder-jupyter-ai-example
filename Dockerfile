@@ -1,4 +1,4 @@
-FROM quay.io/jupyter/minimal-notebook:python-3.12
+FROM quay.io/jupyter/minimal-notebook:python-3.11
 
 # Setting workaround
 # credit: https://github.com/yaml/pyyaml/issues/601#issuecomment-1813963845
